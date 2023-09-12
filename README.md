@@ -23,3 +23,4 @@ yarn lint
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 # Weather-App
+![](screenshots/Screenshot%202023-09-12%20at%2011.19.14%20AM.png)
